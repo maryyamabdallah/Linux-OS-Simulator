@@ -1,7 +1,8 @@
 # StarryOS Terminal Simulator
 
 A browser-based simulated Linux-like operating system built with HTML, CSS, and JavaScript.
-
+Live Demo:
+https://maryyamabdallah.github.io/Linux-OS-Simulator/
  🚀 Features
 - Virtual file system (create, delete, edit files & folders)
 - Terminal supporting Linux-like commands
